@@ -1,0 +1,7 @@
+streamlit
+openai
+tavily-python
+requests
+python-dotenv
+git+https://github.com/openai/swarm.git
+firecrawl-py
